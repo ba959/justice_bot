@@ -1,0 +1,20 @@
+# ===== Секреты — никогда не заливаем на GitHub =====
+config.py
+config.local.py
+
+# ===== Кейсы с доказательствами =====
+evidence/
+watchlist.json
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+venv/
+.venv/
+env/
+
+# ===== Прочее =====
+.DS_Store
+Thumbs.db
